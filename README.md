@@ -11,6 +11,14 @@ The 3D printer was designed using SolidWorks 3D modeling software.
 
 # Printed Objects
 
+![stentSEMImage](Images/stentSEMImage.jpeg)
+
+
+3D-printed degradable antioxidant stent - Scanning Electron Microscopy Image
+NUANCE Scientific Images Contest 2015 - Honorable Mention False-colored SEM image of a 3D printed stent. The stent is made from a citric acid-based material that is biodegradable, antioxidant and curable via UV light.
+
+
+
 ![stbasilcath](Images/St_Basils_Cathedral.png)
 
 ![stentSEMDesigns](Images/Stent_SEM_Designs.png)
