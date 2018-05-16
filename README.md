@@ -18,6 +18,8 @@ The 3D printer was designed using SolidWorks 3D modeling software.
 NUANCE Scientific Images Contest 2015 - Honorable Mention False-colored SEM image of a 3D printed stent. The stent is made from a citric acid-based material that is biodegradable, antioxidant and curable via UV light.
 
 
+![clipPrintSamples](Images/CLIP_Print_Samples.png)
+
 
 ![stbasilcath](Images/St_Basils_Cathedral.png)
 
